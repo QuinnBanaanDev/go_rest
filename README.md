@@ -1,2 +1,3 @@
-# ez_rest_api
+# go_rest
+
 my first rest api in golang!
